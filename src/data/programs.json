@@ -1,0 +1,106 @@
+[
+   
+    {
+      "name": "git",
+      "displayName": "Git",
+      "type": "Quellcodeverwaltung",
+      "level": 3
+    },
+    {
+        "name": "github",
+        "displayName": "GitHub",
+        "type": "Quellcodeverwaltung",
+        "level": 3
+    },   
+    {
+        "name": "gitlab",
+        "displayName": "GitLab",
+        "type": "Quellcodeverwaltung",
+        "level": 2
+    },
+    {
+        "name": "bitbucket",
+        "displayName": "Bitbucket",
+        "type": "Quellcodeverwaltung",
+        "level": 3
+    },
+    {
+        "name": "npm",
+        "displayName": "npm",
+        "type": "Package Manager",
+        "level": 2
+      },
+    {
+        "name": "vscode",
+        "displayName": "Visual Studio Code",
+        "type": "Entwicklungsumgebung",
+        "level": 3
+      },
+      {
+        "name": "intellij",
+        "displayName": "IntelliJ",
+        "type": "Entwicklungsumgebung",
+        "level": 1
+      },
+    {
+      "name": "jira",
+      "displayName": "Jira",
+      "type": "Projektmanagement",
+      "level": 2
+    },
+    {
+      "name": "celonis",
+      "displayName": "Celonis",
+      "type": "Data Processing",
+      "level": 3
+    },
+    {
+        "name": "figma",
+        "displayName": "Figma",
+        "type": "UX-Design",
+        "level": 2
+      },
+    {
+        "name": "xd",
+        "displayName": "XD",
+        "type": "UX-Design",
+        "level": 3
+      },
+      {
+        "name": "premierepro",
+        "displayName": "Premiere Pro",
+        "type": "Medienbearbeitung",
+        "level": 3
+      },
+      {
+        "name": "photoshop",
+        "displayName": "Photoshop",
+        "type": "Medienbearbeitung",
+        "level": 1
+      },
+      {
+        "name": "trello",
+        "displayName": "Trello",
+        "type": "Projektmanagement",
+        "level": 2
+      },
+      {
+        "name": "slack",
+        "displayName": "Slack",
+        "type": "Kommunikation",
+        "level": 2
+      },
+      {
+        "name": "scrum",
+        "displayName": "Scrum",
+        "type": "Projektmanagement",
+        "level": 3
+      },
+      {
+        "name": "office",
+        "displayName": "Microsoft Office",
+        "type": "Projektmanagement",
+        "level": 2
+      }
+  ]
+  

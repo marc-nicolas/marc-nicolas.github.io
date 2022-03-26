@@ -1,0 +1,147 @@
+[
+    {
+      "displayName": "HTML5",
+      "name": "html5",
+      "type": "Auszeichnungssprache",
+      "level": 3
+    },
+    {
+      "displayName": "Pug",
+      "name": "pugjs",
+      "type": "Auszeichnungssprache",
+      "level": 2
+    },
+    {
+      "displayName": "CSS3",
+      "name": "css3",
+      "type": "Style Sheet Sprache",
+      "level": 3
+    },
+    {
+      "displayName": "SASS",
+      "name": "sass",
+      "type": "Style Sheet Sprache",
+      "level": 3
+    },
+    {
+      "displayName": "Stylus",
+      "name": "stylus",
+      "type": "Style Sheet Sprache",
+      "level": 2
+    },
+    {
+      "displayName": "JavaScript",
+      "name": "javascript",
+      "type": "Programmiersprache",
+      "level": 3
+    },
+    {
+      "displayName": "TypeScript",
+      "name": "typescript",
+      "type": "Programmiersprache",
+      "level": 2
+    },
+    {
+      "displayName": "Java",
+      "name": "java",
+      "type": "Programmiersprache",
+      "level": 1
+    },
+    {
+      "displayName": "Python",
+      "name": "python",
+      "type": "Programmiersprache",
+      "level": 2
+    },
+    {
+      "displayName": "Bash",
+      "name": "bash",
+      "type": "Programmiersprache",
+      "level": 2
+    },
+    {
+      "displayName": "Ruby",
+      "name": "ruby",
+      "type": "Programmiersprache",
+      "level": 1
+    },
+    {
+      "displayName": "Rails",
+      "name": "rails",
+      "type": "Framework",
+      "level": 1
+    },
+    {
+      "displayName": "C#",
+      "name": "csharp",
+      "type": "Programmiersprache",
+      "level": 2
+    },
+    {
+      "displayName": "Vue.js",
+      "name": "vuejs",
+      "type": "Framework",
+      "level": 3
+    },
+    {
+      "displayName": "Three.js",
+      "name": "threejs",
+      "type": "Framework",
+      "level": 2
+    },
+    {
+      "displayName": "Node.js",
+      "name": "nodejs",
+      "type": "Runtime Environment",
+      "level": 3
+    },
+    {
+      "displayName": "Express",
+      "name": "express",
+      "type": "Framework",
+      "level": 3
+    },
+    {
+      "displayName": "Mocha",
+      "name": "mocha",
+      "type": "Framework",
+      "level": 2
+    },
+    {
+      "displayName": "React & React Native",
+      "name": "react",
+      "type": "Framework",
+      "level": 2
+    },
+    {
+      "displayName": "Angular",
+      "name": "angular",
+      "type": "Framework",
+      "level": 2
+    },
+    {
+      "displayName": "MySQL",
+      "name": "mysql",
+      "type": "Datenbanksprache",
+      "level": 3
+    },
+    {
+      "displayName": "MongoDB",
+      "name": "mongodb",
+      "type": "Datenbanksprache",
+      "level": 3
+    },
+    {
+      "displayName": "Bulma",
+      "name": "bulma",
+      "type": "Framework",
+      "level": 3
+    },
+    {
+      "displayName": "Bootstrap",
+      "name": "bootstrap",
+      "type": "Framework",
+      "level": 2
+    }
+  ]
+  
